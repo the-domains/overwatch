@@ -1,0 +1,14 @@
+layout_spectrum: 0.3884386755526066
+typography_spectrum: 0.5140967555344105
+color:
+  brandStrength: 0.03889658208936453
+  lightness: 0.41204069601371884
+  saturation: 0.9671569361817092
+  rhythmicContrast: 0.7886757021769881
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Overwatch
