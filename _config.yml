@@ -1,4 +1,3 @@
-layout_spectrum: 0.3884386755526066
 typography_spectrum: 0.5140967555344105
 color:
   brandStrength: 0.03889658208936453
@@ -11,5 +10,7 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
+layout_spectrum: 0.3884386755526066
 name: Overwatch
+title: Overwatch Optics
 description: The Most Affordable Thermal Weapon Scope On The Market
